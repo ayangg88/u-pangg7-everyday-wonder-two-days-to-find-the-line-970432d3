@@ -7,7 +7,7 @@ wonder in everyday life to /output/entry.txt.
 
 import os
 
-ENTRY = "Steam from my coffee writes one slow sentence on the cold window, then erases itself."
+ENTRY = "Steam from my coffee writes one slow sentence across the cold window, then erases it."
 
 
 def main() -> None:
